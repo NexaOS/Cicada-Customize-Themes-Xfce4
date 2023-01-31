@@ -1,0 +1,13 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=Cicada-Themes-Light
+Comment=A MacOS BigSur like Gtk+ theme based on Elegant Design
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=Cicada-Themes-Light
+MetacityTheme=Cicada-Themes-Light
+IconTheme=Cicada-Themes
+CursorTheme=Cicada-Themes-cursors
+ButtonLayout=close,minimize,maximize:menu
+
